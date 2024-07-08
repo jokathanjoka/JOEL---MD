@@ -57,27 +57,27 @@ router.get('/', async (req, res) => {
                let session = await Pair_Code_By_Maher_Zubair.sendMessage(Pair_Code_By_Maher_Zubair.user.id, { text: '' + b64data });
 
                let SIGMA_MD_TEXT = `
-*FREDI_MD*
-*FREDI_MD BOT*
-*𝙇𝙀𝙂𝙄𝙏 𝘽𝙊𝙏*
+*JOEL BUG BOT *
+*JOEL MD SESSION ID*
+*CREATED ON EARTH*
 ____________________________________
 ╔════◇
 ║『 𝘿𝙀𝙑𝙀𝙇𝙊𝙋𝙀𝙍』
 
-║ ❒ FREDI: _https://wa.link/4d9cpj_
+║ ❒ JOEL  https://wa.link/e9lbut_
 
 ╚════════════════════❒
 ╔═════◇
 ║ 『••• OWNER INFO •••』
-║ ❒ 𝐘𝐨𝐮𝐭𝐮𝐛𝐞: _https://www.youtube.com/@freeonlinetvT1_
+║ ❒ 𝐘𝐨𝐮𝐭𝐮𝐛𝐞: _https://www.youtube.com/@joellinetvT1_
 
-║ ❒ 𝐎𝐰𝐧𝐞𝐫: _https://wa.link/1eyv9w_
+║ ❒ 𝐎𝐰𝐧𝐞𝐫: _https://wa.link/e9lbut_
 
-║ ❒ 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: _https://whatsapp.com/channel/0029VafeCKHKmCPMtW3bFA08_
+║ ❒ 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: _https://whatsapp.com/channel/0029Vade9VgD38CPEnxfYF0M_
 
 ║ 
 ╚════════════════════╝ 
- *FREDI_MDX*
+ *JOEL MD*
 ___________________________________
 
 Don't Forget To Give Star To My Repo`

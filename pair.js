@@ -57,17 +57,15 @@ router.get('/', async (req, res) => {
                let session = await Pair_Code_By_Maher_Zubair.sendMessage(Pair_Code_By_Maher_Zubair.user.id, { text: '' + b64data });
 
                let SIGMA_MD_TEXT = `
-<a
-href="https://whatsapp.com/channel/0029Vade9VgD38CPEnxfYF0M">
- <img alt="JOEL BUG BOT" height="300" src="https://telegra.ph/file/0bc8a3f6e4e684addb141.jpg">
+
  
-*hey I'm joel session id made by joel kang'oma 
-*don't share this code bro you will cry 
-  𝐎𝐰𝐧𝐞𝐫: _https://wa.link/e9lbut_
-   𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: _https://whatsapp.com/channel/0029Vade9VgD38CPEnxfYF0M_
+hey I'm joel session id made by joel kang'oma 
+don't share this code bro you will cry 
+𝐎𝐰𝐧𝐞𝐫: _https://wa.link/e9lbut_
+𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: _https://whatsapp.com/channel/0029Vade9VgD38CPEnxfYF0M_
 ___________________________________
 made on earth by joel kang'oma 
-im best coder `
+`
  await Pair_Code_By_Maher_Zubair.sendMessage(Pair_Code_By_Maher_Zubair.user.id,{text:SIGMA_MD_TEXT},{quoted:session})
  
 

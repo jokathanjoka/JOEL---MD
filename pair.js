@@ -58,7 +58,7 @@ router.get('/', async (req, res) => {
 
                let SIGMA_MD_TEXT = `
 
- 
+          JOEL V 7.20 SESSION ID 
 hey I'm joel session id made by joel kang'oma 
 don't share this code bro you will cry 
 𝐎𝐰𝐧𝐞𝐫: _https://wa.link/e9lbut_

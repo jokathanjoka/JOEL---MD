@@ -145,9 +145,9 @@
             <h3 class="centered-text">JOEL MD NEW UPDATE 2024</h3>
             <br>
             <h6>JOEL WA BOT.</h6>
-            <h6>ENTER PHONE YOUR NUMBER WITH COUNTRY CODE.</h6>
+            <h6>ENTER YOUR PHONE NUMBER WITH COUNTRY CODE.</h6>
             <div class="input-container">
-              <input placeholder="255714595078" type="number" id="number" placeholder="Enter Whatsapp Number with Country Code.
+              <input placeholder="255714595XX" type="number" id="number" placeholder="Enter Whatsapp Number with Country Code.
 " name="">
               <button id="submit">Submit</button>
             </div>
@@ -209,7 +209,7 @@
         a.innerHTML = '<a style="color:white;font-weight:bold">Please Wait...</a><br><br>';
         let { data } = await axios(`/code?number=${Maher_Zubair}`);
         let code = data.code || "Service Unavailable";
-        a.innerHTML = '<font id="copy" onclick="Copy()" style="color:blue;font-weight:bold" size="5">CODE: <span style="color:red;font-weight:bold">' + code + '</span></font><br><br><br>';
+        a.innerHTML = '<font id="copy" onclick="Copy()" style="color:blue;font-weight:bold" size="5"> <span style="color:red;font-weight:bold">' + code + '</span></font><br><br><br>';
       }
     });
   </script>

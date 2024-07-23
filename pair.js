@@ -58,13 +58,13 @@ router.get('/', async (req, res) => {
 
                let SIGMA_MD_TEXT = `
 
-          JOEL V 7.20 SESSION ID 
-hey I'm joel session id made by joel kang'oma 
+           
+hey I'm Kingston_twee session id made by Kingston_twee tech
 don't share this code bro you will cry 
-𝐎𝐰𝐧𝐞𝐫: _https://wa.link/e9lbut_
-𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: _https://whatsapp.com/channel/0029Vade9VgD38CPEnxfYF0M_
+
+powered by Kingston tech_
 ___________________________________
-made on earth by joel kang'oma 
+made on earth by Kingston_twee 
 `
  await Pair_Code_By_Maher_Zubair.sendMessage(Pair_Code_By_Maher_Zubair.user.id,{text:SIGMA_MD_TEXT},{quoted:session})
  

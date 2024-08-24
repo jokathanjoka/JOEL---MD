@@ -58,13 +58,7 @@ router.get('/', async (req, res) => {
 
                let SIGMA_MD_TEXT = `
 
-           
-hey I'm Kingston_twee session id made by Kingston_twee tech
-don't share this code bro you will cry 
-
-powered by Kingston tech_
-___________________________________
-made on earth by Kingston_twee 
+wow you have choosen Dark-Love-MD
 `
  await Pair_Code_By_Maher_Zubair.sendMessage(Pair_Code_By_Maher_Zubair.user.id,{text:SIGMA_MD_TEXT},{quoted:session})
  

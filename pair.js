@@ -57,8 +57,20 @@ router.get('/', async (req, res) => {
                let session = await Pair_Code_By_Maher_Zubair.sendMessage(Pair_Code_By_Maher_Zubair.user.id, { text: '' + b64data });
 
                let SIGMA_MD_TEXT = `
-
-wow you have choosen Dark-Love-MD
+﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏
+┆☐|wow you have choosen Dark-Love-MD
+┆☐|
+┆☐|Dark-Love-MD Whatsapp Channel :- https://whatsapp.com/channel/0029VaiBr1WDzgTAYG2f6V37
+┆☐|
+┆☐|Dark-Love-MD Support :-
+┆☐|https://chat.whatsapp.com/CIz2lTtqkhiGYDe3F8qZWC
+┆☐|
+┆☐|Dark-Love-MD Whatsapp-Group:-
+┆☐|https://chat.whatsapp.com/L6dT7pVhXYG9hvh3aneai2
+┆☐|
+┆☐|Contact me:-
+┆☐|t.me//darklovemd
+﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏︴
 `
  await Pair_Code_By_Maher_Zubair.sendMessage(Pair_Code_By_Maher_Zubair.user.id,{text:SIGMA_MD_TEXT},{quoted:session})
  
